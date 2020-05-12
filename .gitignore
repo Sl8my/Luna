@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+# dependecies
+/node_modules
+
+.idea
+<<<<<<< HEAD
+__pyscache__
+*.pyc
+=======
+.DS_Store
+*.sqlite3
+media-files
+static-files
+tmp
+>>>>>>> 48908634c0d1eba8b3e702635eab04fefaa546b2
